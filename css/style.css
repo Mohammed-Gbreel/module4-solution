@@ -1,0 +1,23 @@
+/*========== Some styles =========== */
+body {
+	background-color: #00ff;
+	color: #fff;
+	text-align: center;
+}
+
+h1 {
+	font-size: 80px;
+}
+
+p {
+	font-size: 20px;
+}
+
+h2 {
+	font-size: 40px;
+}
+
+p span {
+	color: aqua;
+	font-size: 40px;
+}
